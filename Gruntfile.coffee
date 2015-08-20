@@ -1,4 +1,4 @@
-# Generated on 2015-08-18 using generator-cds-talk 0.1.1
+# Generated on 2015-08-20 using generator-cds-talk 0.1.1
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -147,7 +147,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:ukmadlz/port80-all-the-things-sthlm.js.git'
+                    remote: 'git@github.com:ukmadlz/port80-all-the-things-staffswebmeetup.git'
                     branch: 'gh-pages'
         
 
