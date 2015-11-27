@@ -1,4 +1,10 @@
 [
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/intro.png"
+        }
+    },
     "index.md",
     {
         "filename": "notice.md",
@@ -33,6 +39,7 @@
             }
         }
     ],
+    "port-80443-all-the-things.md",
     "microservice-architecture.md",
     "story-time.md",
     [
@@ -104,8 +111,10 @@
         "you-can-avoid-this.md"
     ],
     "the-end.md",
-    [
-        "cheeky-plug.md",
-        "discount.md"
-    ]
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/outro.png"
+        }
+    }
 ]
