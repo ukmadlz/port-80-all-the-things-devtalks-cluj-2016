@@ -34,6 +34,10 @@ a {
  */
 .reveal {
   background-color: #FFFFFF; }
+.reveal i.fa{
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
 .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   text-transform: none;
   line-height: 0.93em; }
@@ -41,3 +45,12 @@ a {
   color: #222222 !important; }
 .reveal pre {
   font-size: 1em; }
+
+.reveal table {
+  margin: 0 auto;
+}
+
+.reveal table th,
+.reveal table td {
+  text-align: center;
+}

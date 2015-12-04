@@ -115,10 +115,28 @@
                 "data-background": "images/infinite-facepalm.gif"
             }
         },
+        "xzibit-microservice.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/fillion-shrug.gif"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/spaghetti.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/syntax-error.gif"
+            }
+        },
         "you-can-avoid-this.md"
     ],
     "end.html",
-    "the-end.md",
     {
         "filename": "blank.md",
         "attr": {
