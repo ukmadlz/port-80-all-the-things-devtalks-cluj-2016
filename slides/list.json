@@ -1,10 +1,4 @@
 [
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/intro.png"
-        }
-    },
     "index.md",
     {
         "filename": "notice.md",
