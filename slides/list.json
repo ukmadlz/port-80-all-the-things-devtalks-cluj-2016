@@ -130,11 +130,5 @@
         },
         "you-can-avoid-this.md"
     ],
-    "end.html",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/outro.png"
-        }
-    }
+    "end.html"
 ]
