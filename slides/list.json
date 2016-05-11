@@ -40,9 +40,26 @@
         }
     ],
     "port-80443-all-the-things.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/da-fuq.gif"
+        }
+    },
     "microservice-architecture.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/adventure-time-zoom.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/story-time.gif"
+        }
+    },
     "story-time.md",
-    [
         "monolith.md",
         "monolith-legacy.md",
         "monolith-looks-like.md",
@@ -55,27 +72,27 @@
         "good-guy-monolith.md",
         "apache-couchdb.md",
         "allocation-monolith.md",
-        "runtime-monolith.md"
-    ],
-    [
+        "runtime-monolith.md",
         "service-orientated-architecture.md",
         "soa-microservice.md",
         "what-is-soa.md",
         "soa-concepts.md",
-        "soa-diagram.md"
-    ],
-    [
+        "soa-diagram.md",
         "microservices.md",
         "and-the-difference.md",
         "the-advantage.md",
         {
             "filename": "blank.md",
             "attr": {
+                "data-background": "images/js-code.gif"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
                 "data-background": "images/erika-hearts.gif"
             }
-        }
-    ],
-    [
+        },
         "opinion-time.md",
         "why-its-grown.md",
         "best-example-i-have.md",
@@ -99,9 +116,7 @@
             "attr": {
                 "data-background": "images/thumbs-up.gif"
             }
-        }
-    ],
-    [
+        },
         "the-bad-side.md",
         {
             "filename": "blank.md",
@@ -128,7 +143,6 @@
                 "data-background": "images/syntax-error.gif"
             }
         },
-        "you-can-avoid-this.md"
-    ],
+        "you-can-avoid-this.md",
     "end.html"
 ]
