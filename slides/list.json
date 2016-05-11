@@ -56,6 +56,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/right-audience.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/story-time.gif"
         }
     },
