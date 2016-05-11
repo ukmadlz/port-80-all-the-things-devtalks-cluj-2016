@@ -60,89 +60,91 @@
         }
     },
     "story-time.md",
-        "monolith.md",
-        "monolith-legacy.md",
-        "monolith-looks-like.md",
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/facepalm-over.gif"
-            }
-        },
-        "good-guy-monolith.md",
-        "apache-couchdb.md",
-        "allocation-monolith.md",
-        "runtime-monolith.md",
-        "service-orientated-architecture.md",
-        "soa-microservice.md",
-        "what-is-soa.md",
-        "soa-concepts.md",
-        "soa-diagram.md",
-        "microservices.md",
-        "and-the-difference.md",
-        "the-advantage.md",
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/js-code.gif"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/erika-hearts.gif"
-            }
-        },
-        "opinion-time.md",
-        "why-its-grown.md",
-        "best-example-i-have.md",
-        {
-            "filename": "battlehack.md",
-            "attr": {
-                "data-background": "#3B4B54"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/battlehack-london-2014.jpg"
-            }
-        },
-        "yes-we-kept-the-axe.md",
-        "did-this-by.md",
-        "my-repos.md",
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/thumbs-up.gif"
-            }
-        },
-        "the-bad-side.md",
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/infinite-facepalm.gif"
-            }
-        },
-        "xzibit-microservice.md",
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/fillion-shrug.gif"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/spaghetti.jpg"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/syntax-error.gif"
-            }
-        },
-        "you-can-avoid-this.md",
+    "monolith.md",
+    "monolith-legacy.md",
+    "monolith-looks-like.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/facepalm-over.gif"
+        }
+    },
+    "good-guy-monolith.md",
+    "apache-couchdb.md",
+    "allocation-monolith.md",
+    "runtime-monolith.md",
+    "service-orientated-architecture.md",
+    "soa-microservice.md",
+    "what-is-soa.md",
+    "soa-concepts.md",
+    "soa-diagram.md",
+    "microservices.md",
+    "and-the-difference.md",
+    "the-advantage.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/js-code.gif"
+        }
+    },
+    "do-one-job.md",
+    "services.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/erika-hearts.gif"
+        }
+    },
+    "opinion-time.md",
+    "why-its-grown.md",
+    "best-example-i-have.md",
+    {
+        "filename": "battlehack.md",
+        "attr": {
+            "data-background": "#3B4B54"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/battlehack-london-2014.jpg"
+        }
+    },
+    "yes-we-kept-the-axe.md",
+    "did-this-by.md",
+    "my-repos.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/thumbs-up.gif"
+        }
+    },
+    "the-bad-side.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/infinite-facepalm.gif"
+        }
+    },
+    "xzibit-microservice.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/fillion-shrug.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/spaghetti.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/syntax-error.gif"
+        }
+    },
+    "you-can-avoid-this.md",
     "end.html"
 ]
