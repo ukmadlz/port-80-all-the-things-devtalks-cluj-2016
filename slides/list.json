@@ -126,6 +126,7 @@
             "data-background": "images/infinite-facepalm.gif"
         }
     },
+    "infinite-http.md",
     "xzibit-microservice.md",
     {
         "filename": "blank.md",
@@ -146,5 +147,7 @@
         }
     },
     "you-can-avoid-this.md",
+    "repeatable.md",
+    "other-comm-channels.md",
     "end.html"
 ]
